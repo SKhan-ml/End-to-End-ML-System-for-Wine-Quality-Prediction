@@ -20,7 +20,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-End-Machine-Learning-Pipeline
+https://github.com/SKhan-ml/End-to-End-ML-System-for-Wine-Quality-Prediction.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
