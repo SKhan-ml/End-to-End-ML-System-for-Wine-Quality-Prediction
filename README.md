@@ -29,7 +29,7 @@ conda create -n  python= 3.12.7 -y
 ```
 
 ```bash
-conda activate mlproj
+conda activate wineprediction
 ```
 
 
