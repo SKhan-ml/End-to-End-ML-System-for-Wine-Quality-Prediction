@@ -25,7 +25,7 @@ https://github.com/SKhan-ml/End-to-End-ML-System-for-Wine-Quality-Prediction.git
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n mlproj python=3.8 -y
+conda create -n  python= 3.12.7 -y
 ```
 
 ```bash
