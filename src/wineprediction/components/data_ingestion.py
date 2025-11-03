@@ -1,9 +1,9 @@
 import os
 import urllib.request as request
 import zipfile
-from mlProject import logger
-from mlProject.utils.common import get_size
-from mlProject.entity.config_entity import DataIngestionConfig
+from wineprediction import logger
+from wineprediction.utils.common import get_size
+from wineprediction.entity.config_entity import DataIngestionConfig
 from pathlib import Path
 
 
