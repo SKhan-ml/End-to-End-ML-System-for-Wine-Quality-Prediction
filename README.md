@@ -29,10 +29,10 @@ conda create -n  python= 3.12.7 -y
 ```
 
 ```bash
-conda activate wineprediction
+conda activate wineQualityprediction
 ```
 
-
+https://github.com/SKhan-ml/End-to-End-ML-System-for-Wine-Quality-Prediction
 ### STEP 02- install the requirements
 ```bash
 pip install -r requirements.txt
